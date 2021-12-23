@@ -1,0 +1,9 @@
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: blue
+}
+
+.ul {
+    list-style: none;
+}
