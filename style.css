@@ -61,6 +61,7 @@
     background-color: #3882F6;
     border-radius: 10px;
     border: none;
+    color: #F9FaF8;
 }
 
 .body1-title{
@@ -114,12 +115,9 @@
     background-color: #E5E7EB;
     display: flex;
     font-weight: bold;
-    flex-direction: row-reverse;
-    max-width: 1000px;
+    justify-content: center;
     padding-bottom: 64px;
     padding-top: 10px;
-    margin-right: -10px;
-    margin-left: -10px;
 }
 
 .callcontainer{
